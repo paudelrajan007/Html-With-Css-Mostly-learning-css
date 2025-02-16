@@ -1,0 +1,29 @@
+/* the are many type of  style of selctor */
+
+/* Universal Selector (*) */
+* {
+  font-family: monospace;
+}
+
+/* Element selector */
+body {
+  font-size: 22px;
+  background-color: pink;
+}
+/* group selector */
+h1,
+h2 {
+  color: rgb(22, 232, 78);
+}
+p {
+  color: rgb(223, 253, 24);
+}
+
+/*  class selector */
+.blue {
+  color: blue;
+}
+/*  id selector */
+#secod {
+  font-style: italic;
+}
