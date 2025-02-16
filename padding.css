@@ -1,0 +1,14 @@
+/* padding left
+padding right
+padding top
+padding top
+padding bottom
+ */
+
+body {
+  background-color: aqua;
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+  border-color: antiquewhite;
+}

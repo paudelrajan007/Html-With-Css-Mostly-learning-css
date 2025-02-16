@@ -2,5 +2,7 @@ body {
   font-size: 25px;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.5;
-  background-color: violet;
+  background-color: papayawhip;
+  color: gray;
 }
+/* you can choose color from the color picker webside */

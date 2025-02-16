@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+p {
+  height: 50%;
+  width: 50%;
+  border-color: navajowhite;
+  border-style: solid;
+  border-width: 5px;
+
+  background-color: #3bcfec;
+}
