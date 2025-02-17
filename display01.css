@@ -1,0 +1,17 @@
+div {
+  width: 100px;
+  height: 100px;
+  margin: 25px;
+  padding: 25px;
+  display: inline;
+}
+#red {
+  background-color: red;
+}
+#yellow {
+  background-color: yellow;
+}
+#green {
+  background-color: green;
+  background-color: rgba(33, 55, 66, 0.5);
+}
