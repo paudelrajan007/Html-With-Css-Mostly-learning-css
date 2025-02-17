@@ -1,7 +1,10 @@
-a {
-  display: inline;
+* {
+  background: gray;
 }
-#imgtwo {
-  position: relative;
-  top: 0;
+header {
+  background-color: skyblue;
+  height: 60px;
+}
+img {
+  background: skyblue;
 }

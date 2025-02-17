@@ -8,6 +8,7 @@
   height: 60px;
 
   background-color: black;
+  position: fixed;
 }
 #logo {
   color: orange;
@@ -19,4 +20,7 @@ button {
 a {
   margin-right: 200px;
   text-decoration: none;
+}
+p {
+  background-color: gray;
 }
