@@ -5,10 +5,15 @@ padding top
 padding bottom
  */
 
-body {
+h1 {
+  text-align: center;
   background-color: aqua;
-  height: 100%;
-  width: 100%;
-  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
   border-color: antiquewhite;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
