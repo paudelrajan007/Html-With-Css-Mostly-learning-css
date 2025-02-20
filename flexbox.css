@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+}
+div {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  border: 2px solid black;
+}
+#content {
+  width: 800px;
+  height: 200px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+#box1 {
+  background-color: lightblue;
+}
+#box2 {
+  background-color: navajowhite;
+}
+#box3 {
+  background-color: lightcyan;
+}
+#box4 {
+  background-color: gray;
+}
+#box5 {
+  background-color: lightpink;
+}
