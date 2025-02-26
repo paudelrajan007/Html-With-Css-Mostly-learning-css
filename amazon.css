@@ -2,8 +2,19 @@ header {
   width: 100%;
   height: 40px;
   background-color: black;
+  position: fixed;
 }
 img {
   height: 30px;
   fill: black;
+}
+#one {
+  display: inline;
+  color: azure;
+}
+.op {
+  color: azure;
+}
+.kp {
+  display: block;
 }
