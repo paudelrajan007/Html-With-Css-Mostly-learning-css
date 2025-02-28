@@ -1,0 +1,9 @@
+header {
+  position: fixed;
+}
+body {
+  background-color: grey;
+}
+a {
+  text-decoration: none;
+}

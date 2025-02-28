@@ -1,0 +1,11 @@
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  padding: 1.5rem 3rem;
+  border-radius: 8px;
+  font-size: 1.6rem;
+}
+.btn-primary {
+  background: #10d6f4;
+  color: aliceblue;
+}
